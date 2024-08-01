@@ -1,0 +1,1 @@
+This project aims to predict employee attrition using various machine learning techniques, including deep neural networks. The model is trained on a comprehensive HR dataset containing employee information and attrition status.
